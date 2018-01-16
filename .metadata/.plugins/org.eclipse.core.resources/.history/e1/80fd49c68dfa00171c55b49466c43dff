@@ -1,0 +1,13 @@
+package edu.fju.exam;
+
+public class Employee extends Main {
+
+
+
+		public Employee (String name3,int d)
+		{
+			
+		}
+
+
+}

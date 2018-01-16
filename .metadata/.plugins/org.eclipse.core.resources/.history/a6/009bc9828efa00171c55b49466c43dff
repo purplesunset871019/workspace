@@ -1,0 +1,12 @@
+package edu.fju.exam;
+
+public class Director extends Employee{
+		
+		public Director (String name1,int a,int b)
+		{
+			super.print();
+
+		}
+	
+
+}

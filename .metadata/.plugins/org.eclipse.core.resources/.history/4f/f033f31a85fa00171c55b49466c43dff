@@ -1,0 +1,24 @@
+package edu.fju.exam;
+
+public class Niner {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int a;
+		int b;
+		
+		for(a=1;a<=5;a++)
+		{
+			for(b=2;b<=5;b++)
+			{
+				System.out.print(b)
+			}
+		}
+
+		
+		
+		
+	}
+
+}

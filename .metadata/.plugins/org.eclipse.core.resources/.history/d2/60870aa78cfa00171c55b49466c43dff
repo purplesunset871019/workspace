@@ -1,0 +1,11 @@
+package edu.fju.exam;
+
+public class Director extends Main{
+		
+		public Director (String name,int a,int b)
+		{
+			
+		}
+	
+
+}
